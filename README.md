@@ -145,5 +145,5 @@ python main.py
 
 ## Author
 
-Aleyna Dede
-Artificial Intelligence Engineer
+Aleyna Dede  
+Artificial Intelligence Engineering Student
