@@ -1,3 +1,5 @@
+![DobbyGPT Demo](assets/demo.png)
+
 # DobbyGPT – Harry Potter AI Chatbot
 
 LLM | RAG | Vector Search | FAISS | Python
